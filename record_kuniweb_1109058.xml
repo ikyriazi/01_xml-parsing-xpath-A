@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:dv="http://dfg-viewer.de/"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd">
+   <mets:metsHdr CREATEDATE="2020-09-10T08:51:57">
+      <mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+         <mets:name>Verbundzentrale des GBV (VZG)</mets:name>
+      </mets:agent>
+   </mets:metsHdr>
+   <mets:dmdSec ID="dmd_kuniweb_1109058_1">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:titleInfo>
+                  <mods:title>"Wasserträger" aus Peru</mods:title>
+               </mods:titleInfo>
+               <mods:typeOfResource>three dimensional object</mods:typeOfResource>
+               <mods:genre valueURI="http://d-nb.info/gnd/4078931-7">Völkerkunde</mods:genre>
+               <mods:originInfo>
+                  <mods:dateCreated encoding="iso8601" point="start">1400</mods:dateCreated>
+                  <mods:dateCreated encoding="iso8601" point="end">1600</mods:dateCreated>
+                  <mods:dateCreated>15./16. Jh. (Imperiale Phase)</mods:dateCreated>
+               </mods:originInfo>
+               <mods:physicalDescription>
+                  <mods:form>Ton</mods:form>
+                  <mods:form>Engobe</mods:form>
+                  <mods:extent>Höhe: 7 cm
+Breite: 6 cm
+Tiefe: 8 cm</mods:extent>
+               </mods:physicalDescription>
+               <mods:abstract>Hohlfigur eines Lastenträgers. Der Mann transportiert drei Gefäße auf dem Rücken, darunter einen kleinen aryballo, die für Inka typische amphorenartige Keramik. Die Fixierung der Gefäße erfolgte mithilfe eines Tragebandes, das durch Ösen gezogen wurde. Im Inka-Reich spezialisierten sich einige Siedlungen auf die Herstellung von Keramik.  (Landesmuseum Hannover)</mods:abstract>
+               <mods:subject valueURI="http://d-nb.info/gnd/4161757-5">
+                  <mods:topic>Inka</mods:topic>
+               </mods:subject>
+               <mods:subject valueURI="http://obg.vocnet.org/x000564x">
+                  <mods:topic>Bildwerk</mods:topic>
+               </mods:subject>
+               <mods:relatedItem ID="slg_0131" type="host">
+                  <mods:titleInfo>
+                     <mods:title>Ethnologie</mods:title>
+                  </mods:titleInfo>
+               </mods:relatedItem>
+               <mods:identifier type="kuni">record_kuniweb_1109058</mods:identifier>
+               <mods:location>
+                  <mods:physicalLocation type="current" valueURI="isil_DE-MUS-163517">Landesmuseum Hannover</mods:physicalLocation>
+                  <mods:physicalLocation type="discovery">Peruro (Arequipa)</mods:physicalLocation>
+                  <mods:shelfLocator>NLMH VK 10507</mods:shelfLocator>
+               </mods:location>
+               <mods:accessCondition type="use and reproduction"
+                                     xlink:href="https://creativecommons.org/licenses/by/4.0/deed.de">Namensnennung 4.0 International (CC BY 4.0)</mods:accessCondition>
+               <mods:accessCondition type="use and reproduction"
+                                     xlink:href="https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz">Rechte vorbehalten – Freier Zugang</mods:accessCondition>
+               <mods:recordInfo>
+                  <mods:recordContentSource valueURI="http://ld.zdb-services.de/resource/organisations/DE-MUS-163517">Landesmuseum Hannover</mods:recordContentSource>
+                  <mods:recordChangeDate encoding="iso8601">2017-11-23T11:25:21</mods:recordChangeDate>
+                  <mods:recordIdentifier source="http://kuniweb.gbv.de">1109058</mods:recordIdentifier>
+                  <mods:recordInfoNote type="licence"
+                                       xlink:href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">kein Copyright / Public domain (CC0 1.0)</mods:recordInfoNote>
+               </mods:recordInfo>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:amdSec ID="amd_kuniweb_1109058_1">
+      <mets:rightsMD ID="RIGHTS">
+         <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+            <mets:xmlData>
+               <dv:rights>
+                  <dv:owner>Landesmuseum Hannover</dv:owner>
+                  <dv:ownerSiteURL>www.landesmuseum-hannover.de</dv:ownerSiteURL>
+               </dv:rights>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:rightsMD>
+   </mets:amdSec>
+   <mets:fileSec>
+      <mets:fileGrp USE="DEFAULT">
+         <mets:file ID="file_kuniweb_1109058_1" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL"
+                         xlink:href="https://kulturerbe.niedersachsen.de/rest/image/record_kuniweb_1109058/00000001.jpg/full/full/0/default.jpg"/>
+         </mets:file>
+         <mets:file ID="file_kuniweb_1109058_2" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL"
+                         xlink:href="https://kulturerbe.niedersachsen.de/rest/image/record_kuniweb_1109058/00000002.jpg/full/full/0/default.jpg"/>
+         </mets:file>
+      </mets:fileGrp>
+   </mets:fileSec>
+   <mets:structMap TYPE="LOGICAL">
+      <mets:div ADMID="amd_kuniweb_1109058_1"
+                DMDID="dmd_kuniweb_1109058_1"
+                ID="log_kuniweb_1109058_0"
+                TYPE="museum_object"/>
+   </mets:structMap>
+   <mets:structMap TYPE="PHYSICAL">
+      <mets:div TYPE="physSequence" ID="phys_kuniweb_1109058_0">
+         <mets:div ID="phys_kuniweb_1109058_1" ORDER="1">
+            <mets:fptr FILEID="file_kuniweb_1109058_1"/>
+         </mets:div>
+         <mets:div ID="phys_kuniweb_1109058_2" ORDER="2">
+            <mets:fptr FILEID="file_kuniweb_1109058_2"/>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+   <mets:structLink>
+      <mets:smLink xlink:to="phys_kuniweb_1109058_1" xlink:from="log_kuniweb_1109058_0"/>
+      <mets:smLink xlink:to="phys_kuniweb_1109058_2" xlink:from="log_kuniweb_1109058_0"/>
+   </mets:structLink>
+</mets:mets>
